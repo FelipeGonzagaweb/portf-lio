@@ -1,0 +1,39 @@
+body{
+    font-weight: 400;
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: #080000;
+    margin:0;
+}
+
+header{
+
+    background-color: #fcfcfc;
+    
+}
+
+section,footer{
+    
+    margin: 10px;
+}
+
+h1{
+    font-size:40px;
+    color:#fcfcfc;
+    padding: 20px;
+    color:white;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color:#ffffff;
+    font-weight:600px;
+}
+
+footer {
+    background-color: rgb(110, 132, 168); 
+
+  }
